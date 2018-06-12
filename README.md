@@ -16,13 +16,21 @@ SLCA – US Silica Holdings Inc.
 
 ## Libraries Installed
 install.packages("twitteR")
+
 install.packages("ROAuth")
+
 install.packages("tm")
+
 install.packages("SnowballC")
+
 library("twitteR")
+
 library("ROAuth")
+
 library(tm)
+
 library(wordcloud)
+
 library(SnowballC)
 
 
